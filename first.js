@@ -6,7 +6,7 @@
 // Otherwise, print the number;
 // 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, 10
 
-for (let i = 0; i < 100; i++) {
+for (let i = 0; i <= 100; i++) {
   if (i % 3 === 0 && i % 5 === 0) {
     console.log("FizzBuzz");
   } else if (i % 3 === 0) {
