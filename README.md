@@ -1,1 +1,1 @@
-# futureproof_js_hacking
+# Futureproof JS Hacking
