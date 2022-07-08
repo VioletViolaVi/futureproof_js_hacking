@@ -1,9 +1,3 @@
-let count = 10;
-
-while (count >= 0) {
-  if (count % 4 === 0) {
-    console.log(count);
-  }
-
-  count -= 1;
+for (let i = 0; i <= 10; i++) {
+  console.log(i);
 }
